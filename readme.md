@@ -1,0 +1,1 @@
+*type in  shell  in  notepad.exe  readme.md zo maak je een map aan in shell*
